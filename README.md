@@ -3,9 +3,9 @@ Heart disease lead to cause death in most of European countries and it can affec
 #### References: 
   Dataset: UCI Machine Learning Repository
 #### Research papers: 
-* Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology,64,304--310.[link](http://rexa.info/paper/b884ce2f4aff7ed95ce7bfa7adabaef46b88c60c)
-* David W. Aha & Dennis Kibler. "Instance-based prediction of heart-disease presence with the Cleveland database."[link](http://rexa.info/paper/0519d1408b992b21964af4bfe97675987c0caefc)
-* Gennari, J.H., Langley, P, & Fisher, D. (1989). Models of incremental concept formation. Artificial Intelligence, 40, 11--61. [Web Link](sciencedirect.com/science/article/abs/pii/0004370289900465)
+* Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology,64,304--310.    [link](http://rexa.info/paper/b884ce2f4aff7ed95ce7bfa7adabaef46b88c60c)
+* David W. Aha & Dennis Kibler. "Instance-based prediction of heart-disease presence with the Cleveland database."    [link](http://rexa.info/paper/0519d1408b992b21964af4bfe97675987c0caefc)
+* Gennari, J.H., Langley, P, & Fisher, D. (1989). Models of incremental concept formation. Artificial Intelligence, 40, 11--61.  [link](sciencedirect.com/science/article/abs/pii/0004370289900465)
 #### Requirements:
 * Python 3.8
 * Scikit-Learn 0.22 or above
